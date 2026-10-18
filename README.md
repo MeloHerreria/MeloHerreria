@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<h1 align="center">👋 Hi, I'm Melanie Herreria </h1>
+<h1 align="center">👋 Hi, I'm Melanie Herrería </h1>
 <p align="center">
   <b>Student at Universidad Central del Ecuador 🇪🇨 | Future Software Company Founder 🚀</b>
 </p>
