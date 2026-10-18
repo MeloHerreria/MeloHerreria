@@ -101,15 +101,13 @@ My ultimate goal is to found an innovative software development company. I belie
 
 ---
 
-### 💬 Daily Developer Quote
+### 💬 Favorite Quote
 
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&card_width=500" alt="Daily Quote" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&stroke=ff1a1a&strokeWidth=2&height=120&section=header&text=%E2%80%9CPeople%E2%80%99s%20lives%20don%E2%80%99t%20end%20when%20they%20die.%20It%20ends%20when%20they%20lose%20faith.%E2%80%9D%20%E2%80%94%20Itachi%20Uchiha&fontSize=15&fontColor=ffffff&animation=twinkling" alt="Itachi Uchiha Quote Card" />
 </p>
 
----
 
 <p align="center">
-  <i>"The best way to predict the future is to invent it."</i><br>
-  ⭐️ From Ecuador to the World 🇪🇨
+  <i>"If you can imagine it, you can program it."</i><br>
 </p>
